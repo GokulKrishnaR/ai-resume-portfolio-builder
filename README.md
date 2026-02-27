@@ -1,3 +1,4 @@
+<!--
 ---
 title: AI Resume & Portfolio Builder
 emoji: 📄
@@ -7,6 +8,7 @@ sdk: gradio
 app_file: app.py
 pinned: false
 ---
+-->
 
 # 📄 AI Resume & Portfolio Builder
 
